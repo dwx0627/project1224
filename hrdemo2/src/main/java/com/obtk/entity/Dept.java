@@ -23,6 +23,6 @@ public class Dept implements Serializable {
         this.dname = dname;
     }
     public void test(){
-        system.out.println("你好")
+        System.out.println("你好");
     }
 }
