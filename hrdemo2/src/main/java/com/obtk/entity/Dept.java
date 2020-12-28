@@ -22,4 +22,7 @@ public class Dept implements Serializable {
     public void setDname(String dname) {
         this.dname = dname;
     }
+    public void test(){
+        system.out.println("你好")
+    }
 }
